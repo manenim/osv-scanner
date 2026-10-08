@@ -1127,7 +1127,7 @@ interactions:
       proto: HTTP/2.0
       proto_major: 2
       proto_minor: 0
-      content_length: 23523
+      content_length: 23589
       body: |
         {
           "results": [
@@ -2868,6 +2868,10 @@ interactions:
                   "modified": "2026-09-11T17:26:36.822971Z"
                 },
                 {
+                  "id": "ALSA-2026:75768",
+                  "modified": "2026-10-07T13:45:03.170268Z"
+                },
+                {
                   "id": "ALSA-2026:8259",
                   "modified": "2026-04-17T13:19:37.888342Z"
                 }
@@ -2888,7 +2892,7 @@ interactions:
         }
       headers:
         Content-Length:
-          - "23523"
+          - "23589"
         Content-Type:
           - application/json
       status: 200 OK

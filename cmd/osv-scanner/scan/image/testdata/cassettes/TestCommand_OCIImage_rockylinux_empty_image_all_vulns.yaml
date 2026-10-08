@@ -1043,7 +1043,7 @@ interactions:
       proto: HTTP/2.0
       proto_major: 2
       proto_minor: 0
-      content_length: 11571
+      content_length: 11637
       body: |
         {
           "results": [
@@ -1701,6 +1701,10 @@ interactions:
                 {
                   "id": "RLSA-2026:67165",
                   "modified": "2026-09-15T18:30:36.357804Z"
+                },
+                {
+                  "id": "RLSA-2026:76918",
+                  "modified": "2026-10-08T18:45:02.077539Z"
                 }
               ]
             },
@@ -1935,7 +1939,7 @@ interactions:
         }
       headers:
         Content-Length:
-          - "11571"
+          - "11637"
         Content-Type:
           - application/json
       status: 200 OK
